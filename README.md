@@ -8,5 +8,5 @@ Preparation. 준비물.
 
 Motivation. 필요성.
 - Referring the security regulations in the military, functions like VNC and Proxy bypassing is prohibited. Also, the web access logs are recorded for each personnel. Special treatments are required for setting up computational equipments and experimental environment.<br>군내 보안규정에 따라, VNC와 Proxy 우회 기능 사용이 제한되고 인터넷 접속 로그가 사용자별로 기록되는 상황에서 딥러닝 연구를 위한 별도의 연산장비와 특수한 실험환경 세팅 필요
-- We test several framworks like Jupyter Notebook(For single user), JupyterHub(For multiple user) and Docker to fit the security requirements and enable Machine Learning project environments. 등을 활용해 쉽게 Machine Learning 프로젝트 환경 설정
-- Usage of computational resources compying with the security regulations with appropriate server settings and port distribution. 적절한 서버 설정과 네트워크 포트 분배을 통해 보안이 허용하는 범위 내에서 연산 서버 사용
+- We test several framworks like Jupyter Notebook(For single user), JupyterHub(For multiple user) and Docker to fit the security requirements and enable Machine Learning project environments. <br>Jupyter Notebook(For single user), JupyterHub(For multiple user), Docker 등의 툴을 활용해 쉽게 Machine Learning 프로젝트 환경 설정
+- Usage of computational resources compying with the security regulations with appropriate server settings and port distribution.<br>적절한 서버 설정과 네트워크 포트 분배을 통해 보안이 허용하는 범위 내에서 연산 서버 사용
