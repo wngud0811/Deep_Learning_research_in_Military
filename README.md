@@ -3,7 +3,7 @@ Describing the methods and useful tips to develop Machine Learning Codes and run
 한국 군대 내에서 머신러닝 코드를 개발하고 실험을 수행할 수 있는 방법과 노하우를 기록합니다.
 
 Preparation. 준비물.
-- Private Server(or Desktop) linked to WAN.<br>인터넷에 연결된 개인 서버/데스크탑.
+- Private Server or Desktop linked to WAN.<br>인터넷에 연결된 개인 서버/데스크탑.
 - Internet PC in military base.<br>군대 영내 인터넷망 PC.
   - Commercial Web Browser.(Google Chrome, etc)<br>상용 웹 브라우저(크롬 등).
 
