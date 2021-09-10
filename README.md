@@ -2,8 +2,8 @@
 Describing the methods and useful tips to develop Machine Learning Codes and run experiment in the military
 
 Preparation. 준비물.
-- Private Server(or Desktop) linked to WAN. 인터넷에 연결된 개인 서버/데스크탑.
-- Internet PC in military base. 군대 영내 인터넷망 PC.
+- Private Server(or Desktop) linked to WAN.\n 인터넷에 연결된 개인 서버/데스크탑.
+- Internet PC in military base.\n군대 영내 인터넷망 PC.
   - Commercial Web Browser.(Google Chrome, etc) 상용 웹 브라우저(크롬 등).
 
 Motivation. 필요성.
