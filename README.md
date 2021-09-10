@@ -1,5 +1,5 @@
 # Machine_Learning_research_in_Military
-Describing the methods and useful tips to develop Machine Learning Codes and run experiment in the Repulic of Korea Army.<br>
+Describing the methods and useful tips to develop Machine Learning Codes and run experiment inside the Military base of Repulic of Korea Army.<br>
 대한민국 군부대(육군) 내에서 머신러닝 코드를 개발하고 실험을 수행할 수 있는 방법과 노하우를 기록합니다.
 
 Preparation. 준비물.
