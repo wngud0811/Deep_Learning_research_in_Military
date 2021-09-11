@@ -16,4 +16,4 @@ Reference. 참고.
 - 국가정보원법 보안업무규정(국가정보원) https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%B4%EC%95%88%EC%97%85%EB%AC%B4%EA%B7%9C%EC%A0%95
 - 국가정보원법 보안업무규정 시행규칙(국가정보원) https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2200000061152
   - [별표 2] 정보통신 보안 규정 위반 사항(제66조1항 관련)
-- 국방부 군사기밀 보호법 시행령(국방정보본부 보안정책과)
+- 국방부 군사기밀 보호법 시행령(국방정보본부 보안정책과) https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%B0%EC%82%AC%EA%B8%B0%EB%B0%80%EB%B3%B4%ED%98%B8%EB%B2%95%EC%8B%9C%ED%96%89%EB%A0%B9
