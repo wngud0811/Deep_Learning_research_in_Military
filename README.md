@@ -14,7 +14,7 @@
 ## Prerequisites
 - Linux series OS usage.
 - Basic Network knowledge.
-- Port forwarding functions of "ssh" command in Linux shell.
+- Understanding of port forwarding functions of "ssh" command in Linux shell.(-R, -L, -D arguments)
  
 ## Examples
 - Example Setting 1
