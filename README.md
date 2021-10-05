@@ -18,12 +18,12 @@
  
 ## Examples
 - Example Setting 1
-  - Access to Private Server with public IP(A) with machine inside military base(B). 공인 IP가 있는 개인 서버(A)에 군대 영내 데스크탑으로(B) 접속
+  - Access to <em>Private</em> Server with public IP(A) with machine inside military base(B).<br> 공인 IP가 있는 개인 서버(A)에 군대 영내 데스크탑으로(B) 접속
 - Example Setting 2
-  - Access to compute server with not public IP(A) connected to Private (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C). 공인 IP가 없는 연산 서버(A)가 연결된 공인 IP가 있는 개인 (게이트웨이 서버|NAT|공유기) (B)에 군대 영내에서 접속
+  - Access to compute server with no public IP(A) connected to <em>Private</em> (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).<br> 공인 IP가 없는 연산 서버(A)가 연결된 공인 IP가 있는 개인 (게이트웨이 서버|NAT|공유기) (B)에 군대 영내에서 접속
 - Example Setting 3
-  - 공인 IP가 있는 개인용 게이트웨이 서버와
-*'Private' implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds from military base is prohibited and we need more cares to overcome this issues when we cannot change the service port of ssh at server machine.
+  - 공인 IP가 있는 개인용 게이트웨이 서버와 <br>
+*'Private' implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at server machine.
 
 ## Reference
 - [국가정보원법 보안업무규정(국가정보원)][link1]
