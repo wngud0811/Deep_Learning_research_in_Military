@@ -24,7 +24,7 @@
 - Example Setting 3
   -  Access to compute server with no public IP(A) connected to (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).<br> 공인 IP가 없는 연산 서버(A)에 공인 IP가 있는 (게이트웨이 서버|NAT|공유기) (B)를 통해 군대 영내에서 접속
 
-<br>*<em>'Personal'</em> implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at machine.
+<br>*<em>'Personal'</em> implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds with default port(22) from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at machine.
 <br>*'개인'은 머신에 루트 권한을 가지고 있어 파일 권한 조정, 포트 분배, 서비스 관리 등을 수행할 수 있는 경우를 의미합니다.
 
 ## Reference
