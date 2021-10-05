@@ -18,18 +18,19 @@
  
 ## Examples
 - Example Setting 1
-  - Access to <em>Private</em> Server with public IP(A) with machine inside military base(B).<br> 공인 IP가 있는 개인 서버(A)에 군대 영내 데스크탑으로(B) 접속
+  - Access to <em>Personal</em> Server with public IP(A) with machine inside military base(B).<br> 공인 IP가 있는 개인 서버(A)에 군대 영내 데스크탑으로(B) 접속
 - Example Setting 2
-  - Access to compute server with no public IP(A) connected to <em>Private</em> (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).<br> 공인 IP가 없는 연산 서버(A)가 연결된 공인 IP가 있는 개인 (게이트웨이 서버|NAT|공유기) (B)에 군대 영내에서 접속
+  - Access to compute server with no public IP(A) connected to <em>Personal</em> (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).<br> 공인 IP가 없는 연산 서버(A)에 공인 IP가 있는 <em>개인</em> (게이트웨이 서버|NAT|공유기) (B)를 통해 군대 영내에서 접속
 - Example Setting 3
-  - 공인 IP가 있는 개인용 게이트웨이 서버와 <br>
-*'Private' implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at server machine.
+  -  Access to compute server with no public IP(A) connected to (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).<br> 공인 IP가 없는 연산 서버(A)에 공인 IP가 있는 (게이트웨이 서버|NAT|공유기) (B)를 통해 군대 영내에서 접속
+*<em>'Personal'</em> implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at server machine.<br><em>'개인'</em>은 머신에 루트 권한을 가지고 있어 파일 권한 조정, 포트 분배, 서비스 관리 등을 수행할 수 있는 경우를 의미합니다.
 
 ## Reference
 - [국가정보원법 보안업무규정(국가정보원)][link1]
 - [국가정보원법 보안업무규정 시행규칙(국가정보원)][link2]
   - [[별표 2] 정보통신 보안 규정 위반 사항(제66조1항 관련)][link3]
 - [국방부 군사기밀 보호법 시행령(국방정보본부 보안정책과)][link4]
+- Machine Learning Engineering for Production (MLOps) Specialization, Coursera and Deeplearning.AI
 
 [link1]: https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%B4%EC%95%88%EC%97%85%EB%AC%B4%EA%B7%9C%EC%A0%95
 [link2]: https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2200000061152
