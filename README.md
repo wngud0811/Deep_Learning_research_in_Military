@@ -27,6 +27,10 @@
 <br>*<em>'Personal'</em> implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds with default port(22) from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at destination machine.
 <br>*'개인'은 머신에 루트 권한을 가지고 있어 파일 권한 조정, 포트 분배, 서비스 관리 등을 수행할 수 있는 경우를 의미합니다.
 
+## Solutions
+- Cloud-based access/Cloud Computing(Google Cloud Platform, Amazon Web Service, Azure, IBM Cloud, Alibaba cloud, Web-based IDEs, etc)
+- HTTP/HTTPS based access
+
 ## Reference
 - Machine Learning Engineering for Production (MLOps) Specialization, Coursera and Deeplearning.AI
 - [국가정보원법 보안업무규정(국가정보원)][link1]
