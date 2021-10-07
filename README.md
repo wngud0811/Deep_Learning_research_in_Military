@@ -7,7 +7,7 @@
 - Usage of computational resources compying with the security regulations with appropriate server settings and port distribution.<br>적절한 서버 설정과 네트워크 포트 분배를 통해 보안이 허용하는 범위 내에서 연산 서버 사용
 
 ## Preparation
-- Private Server or Desktop linked to WAN.<br>인터넷에 연결된 개인 서버/데스크탑.
+- Personal/Public Server or Desktop linked to WAN.<br>인터넷에 연결된 개인/공용 서버/데스크탑.
 - Internet PC in military base.<br>군내(영내) 인터넷망 PC.
   - Commercial Web Browser.(Google Chrome, etc)<br>상용 웹 브라우저(크롬 등).
  
