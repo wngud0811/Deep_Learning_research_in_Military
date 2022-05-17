@@ -37,6 +37,15 @@
 - SSH tunneling & Packet encryption
 - Tor
 
+### Steps
+- Prepare a Vitual Machine with a network (from Cloud or On-Prem)
+- 
+
+## (Optional) Bypassing forced Mobile security application installation. (Testing)
+### Steps
+- Install mobile OS emulator app.
+- Install Military Mobile Security app (국방모바일보안) inside the virtual environment.
+
 ## Reference
 - Machine Learning Engineering for Production (MLOps) Specialization, Coursera and Deeplearning.AI
 - [사이버지식정보방 운영 및 관리에 관한 훈령(국방부 인적자원개발과)][link1]
