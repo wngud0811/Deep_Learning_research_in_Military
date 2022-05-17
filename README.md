@@ -34,9 +34,8 @@
 
 ### Solutions
 - VPN
-- SSH tunneling
-- Packet encryption
-
+- SSH tunneling & Packet encryption
+- Tor
 
 ## Reference
 - Machine Learning Engineering for Production (MLOps) Specialization, Coursera and Deeplearning.AI
