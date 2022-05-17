@@ -37,10 +37,16 @@
 - SSH tunneling & Packet encryption
 - Tor
 
-### Steps
+### Steps (without Tor)
 - Prepare a Vitual Machine with a network (from Cloud or On-Prem)
 - Make a secured connection to the server with secured authorization. (It is recommended to use the method at least strong as ed25519)
 - Make a proxy to the server (ex. dynamic forwarding with SOCKS5)
+
+### Steps (with Tor)
+- Prepare a Vitual Machine with a network (from Cloud or On-Prem)
+- Make a secured connection to the server with secured authorization. (It is recommended to use the method at least strong as ed25519)
+- Torify the outbound traffic of the server
+- Make a port forwarding connection to the port of Tor service at the server
 
 ## (Optional) Preventing BlueBorn Attack (especially weak for Android devices)
 ### Solutions
