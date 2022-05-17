@@ -47,7 +47,7 @@
 - Make a secured connection to the server with secured authorization. (It is recommended to use the method at least strong as ed25519)
 - Torify the outbound traffic of the server
 - Make a port forwarding connection to the port of Tor service at the server
-** Important: Do not sign in any account ind Tor network. Do not reveal your identity.
+<br> ** Important: Do not sign in any account or reveal your identity in the Tor network. Your location maybe specified by the account usage.
 
 ## (Optional) Preventing Spyapps
 ### Solutions
