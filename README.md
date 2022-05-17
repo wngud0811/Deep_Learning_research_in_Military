@@ -28,7 +28,7 @@
 - Cloud-based access/Cloud Computing(Google Cloud Platform, Amazon Web Service, Azure, IBM Cloud, Alibaba cloud, Web-based IDEs, etc)
 - HTTP/HTTPS based access
 
-## (Optional) Securing data transfer
+## Securing data transfer
 - I recognized that my communication and my data are being proctored even in my private cell phone communication. (Without the notification to me :angry:)
 - I guess at least web logs and app synchronization data in my phone are being monitored.
 
@@ -48,9 +48,13 @@
 - Torify the outbound traffic of the server
 - Make a port forwarding connection to the port of Tor service at the server
 
-## (Optional) Preventing BlueBorn Attack (especially weak for Android devices)
+## (Optional) Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
 - I can't find a better way than turning off Bluetooth.
+
+## (Optional) Wireless device security
+### Solutions
+- I can't find a better way than using wired devices. (better with C-type to fit the security regulations)
 
 ## (Optional) Bypassing forced Mobile security application installation. (Testing)
 ### Solutions
