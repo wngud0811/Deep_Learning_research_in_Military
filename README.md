@@ -48,6 +48,12 @@
 - Torify the outbound traffic of the server
 - Make a port forwarding connection to the port of Tor service at the server
 
+## (Optional) Preventing Spyapps
+### Solutions
+- Run vaccin apps
+- Fatory reset your device occasionally
+- Try not to root your phone
+
 ## (Optional) Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
 - I can't find a better way than turning off Bluetooth.
@@ -58,7 +64,7 @@
 
 ## (Optional) Bypassing forced Mobile security application installation. (Testing)
 ### Solutions
-- Install mobile OS emulator app.
+- Install mobile OS emulator app to the phone.
 - Install Military Mobile Security app (국방모바일보안) inside the virtual environment.
 
 ## Reference
