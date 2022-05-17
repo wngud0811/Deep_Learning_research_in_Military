@@ -22,7 +22,7 @@
   - Access to compute server with no public IP(A) connected to <em>Personal</em> (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).
   -  Access to compute server with no public IP(A) connected to (Gateway Server|NAT|Router) with Public IP(B) by machine inside military base(C).
 
-<br>\*<em>'Personal'</em> implies you have root privilege on the machine and can modify file permissions, port options, services, etc. The point is that ssh outbounds with default port(22) from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at destination machine.
+<br>\*<em>'Personal'</em> implies you have root privilege on the machine and can modify file permissions, port options, services, etc. ~~The point is that ssh outbounds with default port(22) from military base is prohibited and we need significant cares to handle this issue when we cannot change the service port of ssh at destination machine.~~ I noticed that this is not true.
 
 ### Solutions
 - Cloud-based access/Cloud Computing(Google Cloud Platform, Amazon Web Service, Azure, IBM Cloud, Alibaba cloud, Web-based IDEs, etc)
