@@ -39,10 +39,15 @@
 
 ### Steps
 - Prepare a Vitual Machine with a network (from Cloud or On-Prem)
-- 
+- Make a secured connection to the server with secured authorization. (It is recommended to use the method at least strong as ed25519)
+- Make a proxy to the server (ex. dynamic forwarding with SOCKS5)
+
+## (Optional) Preventing BlueBorn Attack (especially weak for Android devices)
+### Solutions
+- I can't find a better way than turning off Bluetooth.
 
 ## (Optional) Bypassing forced Mobile security application installation. (Testing)
-### Steps
+### Solutions
 - Install mobile OS emulator app.
 - Install Military Mobile Security app (국방모바일보안) inside the virtual environment.
 
