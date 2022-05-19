@@ -49,19 +49,29 @@
 - Make a port forwarding connection to the port of Tor service at the server
 <br> ** Important: Do not sign in any account or reveal your identity in the Tor network. Your location maybe specified by the account usage.
 
-## (Optional) Preventing Spyapps
+## Preventing Spyapps
 ### Solutions
 - Run vaccin apps
 - Fatory reset your device occasionally
 - Try not to root your phone
 
-## (Optional) Preventing BlueBorne Attack (especially weak for Android devices)
+## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
 - I can't find a better way than turning off Bluetooth.
 
-## (Optional) Wireless device security
+## Wireless device security
 ### Solutions
 - I can't find a better way than using wired devices. (better with C-type to fit the security regulations)
+
+## Spoofing & Session Hijacking
+- I will find you
+
+## SIM card or Phone copy
+- I am not sure Phone copy is possible for 4+G devices.
+
+## Surveilance rather than cyber attacks & Bad internet connections.
+### Solutions
+- Try [Starlink](https://www.starlink.com/). Looks awesome in military if you are in isolate island, top of the mountain or somewhere odd. Divide your fee with your squad member.
 
 ## (Optional) Bypassing forced Mobile security application installation. (Testing)
 ### Solutions
