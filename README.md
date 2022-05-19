@@ -63,15 +63,15 @@
 ### Solutions
 - I can't find a better way than using wired devices. (better with C-type to fit the security regulations)
 
-## Spoofing & Session Hijacking
+## Spoofing / Session Hijacking
 - I will find you
 
 ## SIM card or Phone copy
 - I am not sure Phone copy is possible for 4+G devices. SIM copy maybe possible.
 
-## Real surveilance rather than cyber attacks or Bad internet connections.
+## Real surveilance rather than cyberattacks / Bad internet connections.
 ### Solutions
-- Try [Starlink](https://www.starlink.com/). Looks awesome in military if you are in isolate island, top of the mountain or somewhere odd. Divide your fee with your squad members.
+- Try [Starlink](https://www.starlink.com/). Looks awesome in military if you are in isolated island, top of the mountain or somewhere odd. Dutchpay your fee with your squad members.
 
 ## (Optional) Bypassing forced Mobile security application installation. (Testing)
 ### Solutions
