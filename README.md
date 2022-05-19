@@ -67,11 +67,11 @@
 - I will find you
 
 ## SIM card or Phone copy
-- I am not sure Phone copy is possible for 4+G devices.
+- I am not sure Phone copy is possible for 4+G devices. SIM copy maybe possible.
 
-## Surveilance rather than cyber attacks & Bad internet connections.
+## Real surveilance rather than cyber attacks or Bad internet connections.
 ### Solutions
-- Try [Starlink](https://www.starlink.com/). Looks awesome in military if you are in isolate island, top of the mountain or somewhere odd. Divide your fee with your squad member.
+- Try [Starlink](https://www.starlink.com/). Looks awesome in military if you are in isolate island, top of the mountain or somewhere odd. Divide your fee with your squad members.
 
 ## (Optional) Bypassing forced Mobile security application installation. (Testing)
 ### Solutions
