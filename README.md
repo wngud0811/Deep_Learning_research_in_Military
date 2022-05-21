@@ -93,10 +93,15 @@ Connection closed by foreign host.
 <br> ** Important: Do not sign in any account or reveal your identity in the Tor network. Your location maybe specified by the account usage.
 
 ## Preventing Spyapps
+### Known cases
+- RCS (Remote Control System) `Galileo` from `Hacking team` at Italy: Android and Desktop, can be installed without the permission or physical access to the device.
+
+
 ### Solutions
 - Run vaccin apps
 - Fatory reset your device occasionally
 - Try not to root your phone
+
 
 ## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
