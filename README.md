@@ -61,7 +61,8 @@ Config of Tor
 sudo vim /etc/tor/torrc
 ```
 
-Parts to change in `etc/tor/torrc`
+Parts to change in `etc/tor/torrc` <br>
+Example : [https://github.com/torproject/tor/blob/main/src/config/torrc.sample.in]
 ```
 # Service Port
 
