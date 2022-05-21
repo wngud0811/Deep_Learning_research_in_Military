@@ -46,6 +46,49 @@
 - Prepare a Vitual Machine with a network (from Cloud or On-Prem)
 - Make a secured connection to the server with secured authorization. (It is recommended to use the method at least strong as ed25519)
 - Torify the outbound traffic of the server
+"""
+# On linux
+sudo apt update
+sudo apt upgrade
+sudo apt install tor
+
+. torsocks on
+"""
+Config of Tor
+"""
+sudo vim /etc/tor/torrc
+"""
+Parts to change in `etc/tor/torrc`
+"""
+# Service Port
+
+# Control Port
+
+# Authentication
+
+"""
+All other local services will be prevented to be accessed unless you register specific `HiddenService`.
+"""
+# (Optional) HiddenService - ex. for jupyter
+
+"""
+Accessing control port
+"""
+# Access control port
+> Telnet 127.0.0.1 9050
+Connected to 127.0.0.1.
+Escape character is '^]'.
+> AUTHENTICATE "<Your-Tor-Password>"
+250 OK
+# renew identity
+> SIGNAL NEWNYM
+250 OK
+> SIGNAL CLEARDNSCACHE
+250 OK
+> quit
+Connection closed by foreign host.
+"""
+
 - Make a port forwarding connection to the port of Tor service at the server
 <br> ** Important: Do not sign in any account or reveal your identity in the Tor network. Your location maybe specified by the account usage.
 
