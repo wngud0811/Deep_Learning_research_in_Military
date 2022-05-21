@@ -99,13 +99,25 @@ Connection closed by foreign host.
 
 ## Preventing Spyapps
 ### Known cases
-- RCS (Remote Control System) `Galileo` from `Hacking team`, Italy: Android and Desktop. Can be installed without the permission or physical access to the device.
+- RCS (Remote Control System) `Galileo` from `Hacking Team`, Italy: Android and Desktop. Can be installed without the permission or physical access to the device.
 
 ### Solutions
 - Run vaccin apps
 - Fatory reset your device occasionally
 - Try not to root your phone
+- (Android) Use `adb` (Android sdk) to force removal of your system apps without rooting. (Need PC)
+- - Activate `USB debugging` by touching `Build Number` multiple times at `Settings > Device Info` 
+- - Connect your phone to PC and allow data transfers
+- - Run `adb` at PC
+```
+> adb devices
 
+> shell pm uninstall --user 0 <Valid Package Name>
+Success
+
+> shell pm uninstall --user 0 <Invalid Package Name>
+Failure (<error message>)
+```
 
 ## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
