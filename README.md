@@ -30,7 +30,7 @@
 
 ## Securing data transfer
 - I recognized that my communication and my data are being proctored even in my private cell phone communication. (Without the notification to me :angry:)
-- I guess at least web logs and app synchronization data in my phone are being monitored.
+- I guess at least web logs, text message and app synchronization data in my phone are being monitored.
 
 ### Solutions
 - VPN
@@ -100,7 +100,7 @@ Connection closed by foreign host.
 
 ## Preventing Spyapps
 ### Known cases
-- RCS (Remote Control System) `Galileo` from `Hacking Team`, Italy: Android and Desktop. Can be installed without the permission or physical access to the device.
+- RCS (Remote Control System) `Galileo` from `Hacking Team`, Italy: Android and Desktop. Can be installed without the permission of the device user. (Guess it needs physical access like connecting USB device)
 
 ### Solutions
 - Run vaccin apps
