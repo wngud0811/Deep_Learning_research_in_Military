@@ -129,7 +129,7 @@ Failure (<error message>)
 - I can't find a better way than using wired devices. (better with C-type to fit the security regulations)
 
 ## Spoofing / Session Hijacking
-- I will find you
+- I will find you (suspecious: xxx.111.222.3, xxx.255.255.250)
 
 ## SIM card or Phone copy
 - I am not sure Phone copy is possible for 4+G devices. SIM copy maybe possible.
