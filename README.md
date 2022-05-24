@@ -123,13 +123,15 @@ Failure (<error message>)
 ## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
 - I can't find a better way than turning off Bluetooth.
+- Even if you turn bluetooth of by clicking the button in the menu bar, bluetooth service might be keep learning background and expose vulnerability.
+- Go to the developer settings and checkout the running service section to check whether your bluetooth service is running.
 
 ## Wireless device security
 ### Solutions
 - I can't find a better way than using wired devices. (better with C-type to fit the security regulations)
 
 ## Spoofing / Session Hijacking
-- I will find you (suspicious: xxx.111.222.3, xxx.255.255.250)
+- I will find you (suspicious: 10.111.222.3 -> looks like the local control node IP of the Spyapp)
 
 ## SIM card or Phone copy
 - I am not sure Phone copy is possible for 4+G devices. SIM copy maybe possible.
