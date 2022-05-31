@@ -62,7 +62,7 @@ sudo vim /etc/tor/torrc
 ```
 
 Parts to change in `etc/tor/torrc` <br>
-Example : [https://github.com/torproject/tor/blob/main/src/config/torrc.sample.in]
+Example : https://github.com/torproject/tor/blob/main/src/config/torrc.sample.in
 ```
 # Service Port
 
@@ -106,7 +106,7 @@ Connection closed by foreign host.
 - Run vaccin apps
 - Fatory reset your device occasionally
 - Try not to root your phone
-- (Android) Use `adb` (Android sdk) to force removal of your system apps without rooting. (Need PC)
+- (Android) Use `adb` (Android SDK) to force removal of your system apps without rooting. (Need PC)
 - - Activate `USB debugging` by touching `Build Number` multiple times at `Settings > Device Info` 
 - - Connect your phone to PC and allow data transfers
 - - Run `adb` at PC
@@ -119,13 +119,13 @@ Success
 > shell pm uninstall --user 0 <Invalid Package Name>
 Failure (<error message>)
 ```
-You can disable package instead of uninstalling them.
+You can disable package instead of uninstalling them. I witnessed some suspicious blotwares which are having strong permissions about my device and not easily stopped running in normal user mode.
 
 ## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
 - I can't find a better way than turning off Bluetooth when I am not using. But it is vulnerable if I work on same place at same time daily.
-- Even if you turn bluetooth of by clicking the button in the menu bar, bluetooth service might be keep learning background and expose vulnerability.
-- Go to the developer settings and checkout the running service section to check whether your bluetooth service is running.
+- In general android OS, even if you turn bluetooth off by clicking the button in the menu bar, bluetooth service might be keep learning background and expose vulnerability.
+- Go to the `developer settings` and checkout the `running service` section to check whether your bluetooth service is running.
 - It is known that recent(2018+) BlueTooth applications are updated to defence such attacks.
 
 ## Wireless device security
@@ -136,7 +136,7 @@ You can disable package instead of uninstalling them.
 - I will find you (suspicious: 10.111.222.3 -> looks like the local control node IP of the Spyapp)
 
 ## SIM card or Phone copy
-- I am not sure Phone copy is possible for 4+G devices. SIM copy maybe possible.
+- I am not sure Phone copy is possible for 4+G devices. They are known to be safe even their IMEI number is exposed. (We normally save it to Telecommuniation Service Provider) SIM copy maybe possible.
 
 ## Real surveilance rather than cyberattacks / Bad internet connections.
 ### Solutions
