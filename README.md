@@ -119,12 +119,14 @@ Success
 > shell pm uninstall --user 0 <Invalid Package Name>
 Failure (<error message>)
 ```
+You can disable package instead of uninstalling them.
 
 ## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
-- I can't find a better way than turning off Bluetooth.
+- I can't find a better way than turning off Bluetooth when I am not using. But it is vulnerable if I work on same place at same time daily.
 - Even if you turn bluetooth of by clicking the button in the menu bar, bluetooth service might be keep learning background and expose vulnerability.
 - Go to the developer settings and checkout the running service section to check whether your bluetooth service is running.
+- It is known that recent(2018+) BlueTooth applications are updated to defence such attacks.
 
 ## Wireless device security
 ### Solutions
