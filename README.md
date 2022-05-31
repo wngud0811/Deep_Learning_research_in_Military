@@ -96,7 +96,7 @@ Connection closed by foreign host.
 ```
 
 - Make a port forwarding connection to the port of Tor service at the server
-<br> ** Important: Do not sign in any account or reveal your identity in the Tor network. Your location maybe specified by the account usage.
+<br> ** Important: Do not sign in any account or reveal your identity in the Tor network. Your IP address and location maybe specified by the account usage.
 
 ## Preventing Spyapps
 ### Known cases
@@ -126,7 +126,7 @@ You can disable package instead of uninstalling them. I witnessed some suspiciou
 - I can't find a better way than turning off Bluetooth when I am not using. But it is vulnerable if I work on same place at same time daily.
 - In general android OS, even if you turn bluetooth off by clicking the button in the menu bar, bluetooth service might be keep learning background and expose vulnerability.
 - Go to the `developer settings` and checkout the `running service` section to check whether your bluetooth service is running.
-- It is known that recent(2018+) BlueTooth applications are updated to defence such attacks.
+- It is known that recent(2018+) BlueTooth applications are updated to prevent such attacks.
 
 ## Wireless device security
 ### Solutions
@@ -136,7 +136,7 @@ You can disable package instead of uninstalling them. I witnessed some suspiciou
 - I will find you (suspicious: 10.111.222.3 -> looks like the local control node IP of the Spyapp)
 
 ## SIM card or Phone copy
-- I am not sure Phone copy is possible for 4+G devices. They are known to be safe even their IMEI number is exposed. (We normally save it to Telecommuniation Service Provider) SIM copy maybe possible.
+- I am not sure Phone copy is possible for 4+G devices. They are known to be safe even if their IMEI number is exposed. (We normally register it to Telecommuniation Service Provider) SIM copy maybe possible.
 
 ## Real surveilance rather than cyberattacks / Bad internet connections.
 ### Solutions
