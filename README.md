@@ -65,17 +65,19 @@ Parts to change in `etc/tor/torrc` <br>
 Example : https://github.com/torproject/tor/blob/main/src/config/torrc.sample.in
 ```
 # Service Port
-
+SOCKSPort 9050
 # Control Port
+ControlPort 9051
+# Enable uthentication
+CookieAuthentication 1
 
-# Authentication
-
+# Setting password
 ```
 
 All other local services will be prevented to be accessed unless you register specific `HiddenService`.
 ```
 # (Optional) HiddenService - ex. for jupyter
-
+HiddenServicePort 80 127.0.0.1:80
 ```
 
 Accessing control port
