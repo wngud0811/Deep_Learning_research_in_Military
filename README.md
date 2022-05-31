@@ -125,7 +125,7 @@ You can disable package instead of uninstalling them. I witnessed some suspiciou
 
 ## Preventing BlueBorne Attack (especially weak for Android devices)
 ### Solutions
-- I can't find a better way than turning off Bluetooth when I am not using. But it is vulnerable if I work on same place at same time daily.
+- I can't find a better way than turning off Bluetooth when I am not using. It is vulnerable if I use my device at specific place at specific time regularly.
 - In general android OS, even if you turn bluetooth off by clicking the button in the menu bar, bluetooth service might be keep learning background and expose vulnerability.
 - Go to the `developer settings` and checkout the `running service` section to check whether your bluetooth service is running.
 - It is known that recent(2018+) BlueTooth applications are updated to prevent such attacks.
