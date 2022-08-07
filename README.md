@@ -135,7 +135,7 @@ You can disable package instead of uninstalling them. I witnessed some suspiciou
 - I can't find a better way than using wired devices. (better with C-type to fit the security regulations)
 
 ## Spoofing / Session Hijacking
-- I will find you (suspicious: 10.111.222.3 -> looks like the local control node IP of the Spyapp)
+- It seems safe with (tcp/http(s)) proxy server.
 
 ## SIM card or Phone copy
 - I am not sure Phone copy is possible for 4+G devices. They are known to be safe even if their IMEI number is exposed. (We normally register it to Telecommuniation Service Provider) SIM copy maybe possible.
