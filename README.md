@@ -29,8 +29,7 @@
 - HTTP/HTTPS based access
 
 ## Securing data transfer
-- I recognized that my communication and my data are being proctored even in my private cell phone communication. (Without the notification to me :angry:)
-- I guess at least web logs, text message and app synchronization data in my phone are being monitored.
+- I recognized that my communication and my data are being proctored (Without the notification to me :angry:)
 
 ### Solutions
 - VPN
